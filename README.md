@@ -6,7 +6,7 @@ Simply refer to it via a `link` tag.
 
 The following will load the latest version so **DO NOT** implement SRI checks
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Richienb/ros-reset-css@master/ros-reset.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Richienb/ros-reset-css@<GIT_COMMIT_SHA>/ros-reset.min.css">
 ```
 
-If you want a pinned version, check out the file on [JsDelivr](https://cdn.jsdelivr.net/gh/Richienb/ros-reset-css/)
+You can find all the commits and versions on [JsDelivr](https://cdn.jsdelivr.net/gh/Richienb/ros-reset-css/)
