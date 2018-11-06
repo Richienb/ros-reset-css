@@ -9,4 +9,4 @@ The following will load the latest version so **DO NOT** implement SRI checks
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Richienb/ros-reset-css@<GIT_COMMIT_SHA>/ros-reset.min.css">
 ```
 
-You can find all the commits and versions on [JsDelivr](https://cdn.jsdelivr.net/gh/Richienb/ros-reset-css/)
+You can find all the commits and versions on [JsDelivr](https://www.jsdelivr.com/package/gh/Richienb/ros-reset-css)
